@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayscaleImage", "GrayscaleImage\GrayscaleImage.csproj", "{29D40CFE-AA3F-469E-B4FB-D904C91A39C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationPicture", "InterpolationPicture\InterpolationPicture.csproj", "{4273D1ED-BBFF-40F2-B3E5-F9D048F31653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blurred", "Blurred\Blurred.csproj", "{3403D332-FE00-427E-84BA-54743692563C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxScalar", "MaxScalar\MaxScalar.csproj", "{7E822580-5294-4E0D-A4DA-41BDDD03422F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSpan", "MaxSpan\MaxSpan.csproj", "{493EE4E0-6999-4827-B4D7-9BB937A18B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayRanges", "BirthdayRanges\BirthdayRanges.csproj", "{F37F81D4-CC3D-4AD2-A2FF-60C66C4512F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBombing", "MatrixBombing\MatrixBombing.csproj", "{6AAC1F78-12BA-49F7-9AA3-FDAF1D70E943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D40CFE-AA3F-469E-B4FB-D904C91A39C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D40CFE-AA3F-469E-B4FB-D904C91A39C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D40CFE-AA3F-469E-B4FB-D904C91A39C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D40CFE-AA3F-469E-B4FB-D904C91A39C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4273D1ED-BBFF-40F2-B3E5-F9D048F31653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4273D1ED-BBFF-40F2-B3E5-F9D048F31653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4273D1ED-BBFF-40F2-B3E5-F9D048F31653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4273D1ED-BBFF-40F2-B3E5-F9D048F31653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3403D332-FE00-427E-84BA-54743692563C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3403D332-FE00-427E-84BA-54743692563C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3403D332-FE00-427E-84BA-54743692563C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3403D332-FE00-427E-84BA-54743692563C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E822580-5294-4E0D-A4DA-41BDDD03422F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E822580-5294-4E0D-A4DA-41BDDD03422F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E822580-5294-4E0D-A4DA-41BDDD03422F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E822580-5294-4E0D-A4DA-41BDDD03422F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493EE4E0-6999-4827-B4D7-9BB937A18B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493EE4E0-6999-4827-B4D7-9BB937A18B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493EE4E0-6999-4827-B4D7-9BB937A18B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493EE4E0-6999-4827-B4D7-9BB937A18B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37F81D4-CC3D-4AD2-A2FF-60C66C4512F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37F81D4-CC3D-4AD2-A2FF-60C66C4512F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37F81D4-CC3D-4AD2-A2FF-60C66C4512F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37F81D4-CC3D-4AD2-A2FF-60C66C4512F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAC1F78-12BA-49F7-9AA3-FDAF1D70E943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAC1F78-12BA-49F7-9AA3-FDAF1D70E943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAC1F78-12BA-49F7-9AA3-FDAF1D70E943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAC1F78-12BA-49F7-9AA3-FDAF1D70E943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
